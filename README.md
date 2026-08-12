@@ -1,5 +1,5 @@
 # 📥 Download Links
-Generated on: Wed Aug 12 12:31:23 UTC 2026
+Generated on: Wed Aug 12 12:40:26 UTC 2026
 
 - [Download Charlie_Puth_-_We_Don't_Talk_Anymore_(feat._Selena_Gomez)_[Official_Video]_[3AtDnEC4zak].mp4.zip](https://github.com/mobinbozorgi/experimental-downloader/raw/videos/videos/Charlie_Puth_-_We_Don%27t_Talk_Anymore_%28feat._Selena_Gomez%29_%5BOfficial_Video%5D_%5B3AtDnEC4zak%5D.mp4.zip)
 - [Download Daron_Acemoglu_on_Why_Nations_Fail_[2z5RAZlv2UQ].mp4.zip](https://github.com/mobinbozorgi/experimental-downloader/raw/videos/videos/Daron_Acemoglu_on_Why_Nations_Fail_%5B2z5RAZlv2UQ%5D.mp4.zip)
@@ -25,6 +25,7 @@ Generated on: Wed Aug 12 12:31:23 UTC 2026
 - [Download Matplotlib_Tutorial_(Part_1)：_Creating_and_Customizing_Our_First_Plots_[UO98lJQ3QGI].z07](https://github.com/mobinbozorgi/experimental-downloader/raw/videos/videos/Matplotlib_Tutorial_%28Part_1%29%EF%BC%9A_Creating_and_Customizing_Our_First_Plots_%5BUO98lJQ3QGI%5D.z07)
 - [Download Matplotlib_Tutorial_(Part_1)：_Creating_and_Customizing_Our_First_Plots_[UO98lJQ3QGI].z08](https://github.com/mobinbozorgi/experimental-downloader/raw/videos/videos/Matplotlib_Tutorial_%28Part_1%29%EF%BC%9A_Creating_and_Customizing_Our_First_Plots_%5BUO98lJQ3QGI%5D.z08)
 - [Download Matplotlib_Tutorial_(Part_1)：_Creating_and_Customizing_Our_First_Plots_[UO98lJQ3QGI].zip](https://github.com/mobinbozorgi/experimental-downloader/raw/videos/videos/Matplotlib_Tutorial_%28Part_1%29%EF%BC%9A_Creating_and_Customizing_Our_First_Plots_%5BUO98lJQ3QGI%5D.zip)
+- [Download Matplotlib_Tutorial_(Part_2)：_Bar_Charts_and_Analyzing_Data_from_CSVs_[nKxLfUrkLE8].zip](https://github.com/mobinbozorgi/experimental-downloader/raw/videos/videos/Matplotlib_Tutorial_%28Part_2%29%EF%BC%9A_Bar_Charts_and_Analyzing_Data_from_CSVs_%5BnKxLfUrkLE8%5D.zip)
 - [Download Shakira_-_Dai_DAI_(Official_Music_Video)_Feat_Burna_Boy_[kJToTXjbHuQ].mp4.zip](https://github.com/mobinbozorgi/experimental-downloader/raw/videos/videos/Shakira_-_Dai_DAI_%28Official_Music_Video%29_Feat_Burna_Boy_%5BkJToTXjbHuQ%5D.mp4.zip)
 - [Download Thaniyavarthanam_Malayalam_movie_1987_FULL_HD_[nCfqaV0XXMk].mp4.z01](https://github.com/mobinbozorgi/experimental-downloader/raw/videos/videos/Thaniyavarthanam_Malayalam_movie_1987_FULL_HD_%5BnCfqaV0XXMk%5D.mp4.z01)
 - [Download Thaniyavarthanam_Malayalam_movie_1987_FULL_HD_[nCfqaV0XXMk].mp4.z02](https://github.com/mobinbozorgi/experimental-downloader/raw/videos/videos/Thaniyavarthanam_Malayalam_movie_1987_FULL_HD_%5BnCfqaV0XXMk%5D.mp4.z02)
