@@ -1,6 +1,11 @@
 # 📥 Download Links
-Generated on: Wed Aug 12 12:40:26 UTC 2026
+Generated on: Wed Aug 12 15:02:37 UTC 2026
 
+- [Download Ceteris_Paribus：_Public_vs._Private_University_[iPBV3BlV7jk].z01](https://github.com/mobinbozorgi/experimental-downloader/raw/videos/videos/Ceteris_Paribus%EF%BC%9A_Public_vs._Private_University_%5BiPBV3BlV7jk%5D.z01)
+- [Download Ceteris_Paribus：_Public_vs._Private_University_[iPBV3BlV7jk].z02](https://github.com/mobinbozorgi/experimental-downloader/raw/videos/videos/Ceteris_Paribus%EF%BC%9A_Public_vs._Private_University_%5BiPBV3BlV7jk%5D.z02)
+- [Download Ceteris_Paribus：_Public_vs._Private_University_[iPBV3BlV7jk].z03](https://github.com/mobinbozorgi/experimental-downloader/raw/videos/videos/Ceteris_Paribus%EF%BC%9A_Public_vs._Private_University_%5BiPBV3BlV7jk%5D.z03)
+- [Download Ceteris_Paribus：_Public_vs._Private_University_[iPBV3BlV7jk].z04](https://github.com/mobinbozorgi/experimental-downloader/raw/videos/videos/Ceteris_Paribus%EF%BC%9A_Public_vs._Private_University_%5BiPBV3BlV7jk%5D.z04)
+- [Download Ceteris_Paribus：_Public_vs._Private_University_[iPBV3BlV7jk].zip](https://github.com/mobinbozorgi/experimental-downloader/raw/videos/videos/Ceteris_Paribus%EF%BC%9A_Public_vs._Private_University_%5BiPBV3BlV7jk%5D.zip)
 - [Download Charlie_Puth_-_We_Don't_Talk_Anymore_(feat._Selena_Gomez)_[Official_Video]_[3AtDnEC4zak].mp4.zip](https://github.com/mobinbozorgi/experimental-downloader/raw/videos/videos/Charlie_Puth_-_We_Don%27t_Talk_Anymore_%28feat._Selena_Gomez%29_%5BOfficial_Video%5D_%5B3AtDnEC4zak%5D.mp4.zip)
 - [Download Daron_Acemoglu_on_Why_Nations_Fail_[2z5RAZlv2UQ].mp4.zip](https://github.com/mobinbozorgi/experimental-downloader/raw/videos/videos/Daron_Acemoglu_on_Why_Nations_Fail_%5B2z5RAZlv2UQ%5D.mp4.zip)
 - [Download Free_To_Choose_1980___Vol__01_The_Power_of_the_Market_[HmclNHwlCVg].mp4.z01](https://github.com/mobinbozorgi/experimental-downloader/raw/videos/videos/Free_To_Choose_1980___Vol__01_The_Power_of_the_Market_%5BHmclNHwlCVg%5D.mp4.z01)
