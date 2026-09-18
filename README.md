@@ -1,5 +1,5 @@
 # 📥 Download Links
-Generated on: Fri Sep 18 13:12:33 UTC 2026
+Generated on: Fri Sep 18 13:27:38 UTC 2026
 
 - [Download Ceteris_Paribus：_Public_vs._Private_University_[iPBV3BlV7jk].z01](https://github.com/mobinbozorgi/experimental-downloader/raw/videos/videos/Ceteris_Paribus%EF%BC%9A_Public_vs._Private_University_%5BiPBV3BlV7jk%5D.z01)
 - [Download Ceteris_Paribus：_Public_vs._Private_University_[iPBV3BlV7jk].z02](https://github.com/mobinbozorgi/experimental-downloader/raw/videos/videos/Ceteris_Paribus%EF%BC%9A_Public_vs._Private_University_%5BiPBV3BlV7jk%5D.z02)
@@ -26,6 +26,15 @@ Generated on: Fri Sep 18 13:12:33 UTC 2026
 - [Download Lec_5：_Production_Theory_[Q7-mCKOzNUI].z05](https://github.com/mobinbozorgi/experimental-downloader/raw/videos/videos/Lec_5%EF%BC%9A_Production_Theory_%5BQ7-mCKOzNUI%5D.z05)
 - [Download Lec_5：_Production_Theory_[Q7-mCKOzNUI].z06](https://github.com/mobinbozorgi/experimental-downloader/raw/videos/videos/Lec_5%EF%BC%9A_Production_Theory_%5BQ7-mCKOzNUI%5D.z06)
 - [Download Lec_5：_Production_Theory_[Q7-mCKOzNUI].zip](https://github.com/mobinbozorgi/experimental-downloader/raw/videos/videos/Lec_5%EF%BC%9A_Production_Theory_%5BQ7-mCKOzNUI%5D.zip)
+- [Download Lec_6：_Costs_[y1bnBxfNVkU].z01](https://github.com/mobinbozorgi/experimental-downloader/raw/videos/videos/Lec_6%EF%BC%9A_Costs_%5By1bnBxfNVkU%5D.z01)
+- [Download Lec_6：_Costs_[y1bnBxfNVkU].z02](https://github.com/mobinbozorgi/experimental-downloader/raw/videos/videos/Lec_6%EF%BC%9A_Costs_%5By1bnBxfNVkU%5D.z02)
+- [Download Lec_6：_Costs_[y1bnBxfNVkU].z03](https://github.com/mobinbozorgi/experimental-downloader/raw/videos/videos/Lec_6%EF%BC%9A_Costs_%5By1bnBxfNVkU%5D.z03)
+- [Download Lec_6：_Costs_[y1bnBxfNVkU].z04](https://github.com/mobinbozorgi/experimental-downloader/raw/videos/videos/Lec_6%EF%BC%9A_Costs_%5By1bnBxfNVkU%5D.z04)
+- [Download Lec_6：_Costs_[y1bnBxfNVkU].z05](https://github.com/mobinbozorgi/experimental-downloader/raw/videos/videos/Lec_6%EF%BC%9A_Costs_%5By1bnBxfNVkU%5D.z05)
+- [Download Lec_6：_Costs_[y1bnBxfNVkU].z06](https://github.com/mobinbozorgi/experimental-downloader/raw/videos/videos/Lec_6%EF%BC%9A_Costs_%5By1bnBxfNVkU%5D.z06)
+- [Download Lec_6：_Costs_[y1bnBxfNVkU].z07](https://github.com/mobinbozorgi/experimental-downloader/raw/videos/videos/Lec_6%EF%BC%9A_Costs_%5By1bnBxfNVkU%5D.z07)
+- [Download Lec_6：_Costs_[y1bnBxfNVkU].z08](https://github.com/mobinbozorgi/experimental-downloader/raw/videos/videos/Lec_6%EF%BC%9A_Costs_%5By1bnBxfNVkU%5D.z08)
+- [Download Lec_6：_Costs_[y1bnBxfNVkU].zip](https://github.com/mobinbozorgi/experimental-downloader/raw/videos/videos/Lec_6%EF%BC%9A_Costs_%5By1bnBxfNVkU%5D.zip)
 - [Download Lecture：_Why_Nations_Fail_–_Studium_Generale_–_Tilburg_University_[zskq2mjkRQM].mp4.z01](https://github.com/mobinbozorgi/experimental-downloader/raw/videos/videos/Lecture%EF%BC%9A_Why_Nations_Fail_%E2%80%93_Studium_Generale_%E2%80%93_Tilburg_University_%5Bzskq2mjkRQM%5D.mp4.z01)
 - [Download Lecture：_Why_Nations_Fail_–_Studium_Generale_–_Tilburg_University_[zskq2mjkRQM].mp4.zip](https://github.com/mobinbozorgi/experimental-downloader/raw/videos/videos/Lecture%EF%BC%9A_Why_Nations_Fail_%E2%80%93_Studium_Generale_%E2%80%93_Tilburg_University_%5Bzskq2mjkRQM%5D.mp4.zip)
 - [Download Matplotlib_Tutorial_(Part_1)：_Creating_and_Customizing_Our_First_Plots_[UO98lJQ3QGI].z01](https://github.com/mobinbozorgi/experimental-downloader/raw/videos/videos/Matplotlib_Tutorial_%28Part_1%29%EF%BC%9A_Creating_and_Customizing_Our_First_Plots_%5BUO98lJQ3QGI%5D.z01)
